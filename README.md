@@ -477,4 +477,5 @@ All endpoints require authentication using a JSON Web Token (JWT) passed in the 
 
 
 #   l i b r a r y - m a n a g e m e n t  
+ #   L i b r a r y  
  
